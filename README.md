@@ -1,6 +1,7 @@
 # Pose Detection with Face Overlays
 
-Imagine a world where your computer sees you—not just as pixels, but as a living, breathing silhouette, where art and technology dance seamlessly on your screen. Welcome to **Pose Detection with Face Overlays**, a simple yet magical Python 3.10 project that transforms your webcam feed into a playful canvas of expression.
+
+Imagine a world where your computer sees you—not just as pixels, but as a living, breathing silhouette. Where art and technology dance seamlessly on your screen. Welcome to **Pose Detection with Face Overlays**, a simple yet magical Python 3.10 project that transforms your webcam feed into a playful canvas of expression.
 
 ---
 
@@ -8,10 +9,9 @@ Imagine a world where your computer sees you—not just as pixels, but as a livi
 
 Witness real-time pose detection come alive. Each movement you make is embraced by fun, stylized masks:
 
-![Pose with Overlay 1](https://miro.medium.com/v2/resize:fit:640/format:webp/1*BKZqEPtvM-6xwarhABZQnA.gif)
+![Pose with Overlay 1](https://miro.medium.com/v2/resize\:fit:640/format/webp/1*BKZqEPtvM-6xwarhABZQnA.gif)
 
-![Pose with Overlay 2](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Gsx7MLBj2LKiaDsab0iNjg.gif)
-[](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Gsx7MLBj2LKiaDsab0iNjg.gif)
+![Pose with Overlay 2](https://miro.medium.com/v2/resize\:fit:640/format/webp/1*Gsx7MLBj2LKiaDsab0iNjg.gif)
 
 ---
 
@@ -28,22 +28,17 @@ Witness real-time pose detection come alive. Each movement you make is embraced 
 
 1. **Clone & Dive In**
 
+   ```bash
+   git clone https://github.com/AdilShamim8/Posture-detection.git
+   cd Posture-detection
    ```
-   ```
-
-Posture-detection/
-├── main.py           # Orchestrates pose detection & overlays
-├── overlays/         # Directory with your overlay assets
-└── requirements.txt  # Python dependencies
-
-````
 2. **Spark Your Environment**
+
    ```bash
    python3.10 -m venv venv
    source venv/bin/activate  # On Windows: venv\\Scripts\\activate
    pip install -r requirements.txt
-````
-
+   ```
 3. **Run the Show**
 
    ```bash
@@ -59,9 +54,7 @@ Posture-detection/
 ```
 Posture-detection/
 ├── main.py           # Orchestrates pose detection & overlays
-├── overlays/         # Your playground of PNG/GIF masks
-│   ├── face1.png
-│   └── face2.png
+├── overlays/         # Directory with your overlay assets
 └── requirements.txt  # Python dependencies
 ```
 
@@ -93,4 +86,4 @@ Contributions, feedback, wild ideas—bring them on!
 ## 📜 License & Contact
 
 MIT License
-Adil Shamim | [GitHub](https://github.com/AdilShamim8) | [adilshamim969@gmail.comm](mailto:adilshamim969@gmail.com)
+Adil Shamim | [GitHub](https://github.com/AdilShamim8) | [adilshamim696@gmail.com](mailto:adilshamim696@gmail.com)
