@@ -8,9 +8,10 @@ Imagine a world where your computer sees you—not just as pixels, but as a livi
 
 Witness real-time pose detection come alive. Each movement you make is embraced by fun, stylized masks:
 
-![Pose with Overlay 1](https://miro.medium.com/v2/resize\:fit:640/format\:webp/1*BKZqEPtvM-6xwarhABZQnA.gif)
+![Pose with Overlay 1](https://miro.medium.com/v2/resize:fit:640/format:webp/1*BKZqEPtvM-6xwarhABZQnA.gif)
 
-![Pose with Overlay 2](https://miro.medium.com/v2/resize\:fit:640/format\:webp/1*Gsx7MLBj2LKiaDsab0iNjg.gif)
+![Pose with Overlay 2](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Gsx7MLBj2LKiaDsab0iNjg.gif)
+[](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Gsx7MLBj2LKiaDsab0iNjg.gif)
 
 ---
 
@@ -92,6 +93,4 @@ Contributions, feedback, wild ideas—bring them on!
 ## 📜 License & Contact
 
 MIT License
-Adil Shamim | [GitHub](https://github.com/AdilShamim8) | [adil.shamim@example.com](mailto:adil.shamim@example.com)
-
-> “Stay hungry. Stay foolish.” — *Steve Jobs*
+Adil Shamim | [GitHub](https://github.com/AdilShamim8) | [adilshamim969@gmail.comm](mailto:adilshamim969@gmail.com)
