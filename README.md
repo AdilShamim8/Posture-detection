@@ -5,7 +5,7 @@ Imagine a world where your computer sees you—not just as pixels, but as a livi
 
 ---
 
-## 🖼️ Experience the Magic
+## Experience the Magic
 
 Witness real-time pose detection come alive. Each movement you make is embraced by fun, stylized masks:
 
@@ -13,9 +13,8 @@ Witness real-time pose detection come alive. Each movement you make is embraced 
 
 ![Pose with Overlay 2](https://miro.medium.com/v2/resize\:fit:640/format/webp/1*Gsx7MLBj2LKiaDsab0iNjg.gif)
 
----
 
-## 🚀 Why You’ll Love It
+##  Why You’ll Love It
 
 * **Real-Time Magic**: Powered by Mediapipe’s Pose model and OpenCV for lightning-fast landmark detection.
 * **Playful Overlays**: Overlay any transparent mask or artwork—turn a simple webcam into a stage.
@@ -24,7 +23,7 @@ Witness real-time pose detection come alive. Each movement you make is embraced 
 
 ---
 
-## 🛠️ Get Started in 3 Steps
+##  Get Started in 3 Steps
 
 1. **Clone & Dive In**
 
@@ -49,7 +48,7 @@ Witness real-time pose detection come alive. Each movement you make is embraced 
 
 ---
 
-## 🔍 Peek Under the Hood
+##  Peek Under the Hood
 
 ```
 Posture-detection/
@@ -60,7 +59,7 @@ Posture-detection/
 
 ---
 
-## 🎨 Customize Your Masterpiece
+##  Customize Your Masterpiece
 
 1. Drop your own PNG/GIF in `overlays/`.
 2. In `main.py`, update:
@@ -72,7 +71,7 @@ Posture-detection/
 
 ---
 
-## 🤝 Join the Journey
+##  Join the Journey
 
 Contributions, feedback, wild ideas—bring them on!
 
