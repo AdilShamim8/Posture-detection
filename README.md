@@ -9,9 +9,9 @@ Imagine a world where your computer sees you—not just as pixels, but as a livi
 
 Witness real-time pose detection come alive. Each movement you make is embraced by fun, stylized masks:
 
-![Pose with Overlay 1](https://miro.medium.com/v2/resize\:fit:640/format/webp/1*BKZqEPtvM-6xwarhABZQnA.gif)
+![Pose with Overlay 1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGNfQavEiYMs5I_9uJf03gy79HVgHd-dJUV-C7mgOMs6GF5Ll0s55CTORGS-PfiZ72Sc6WJQhbktAPc5Q8CuqTfRx1x4Fju779bSb_gE1F_2hjvnj61OcWDrvoRfInJsB18-SvxVtvTVY/s320/p1.gif)
 
-![Pose with Overlay 2](https://miro.medium.com/v2/resize\:fit:640/format/webp/1*Gsx7MLBj2LKiaDsab0iNjg.gif)
+![Pose with Overlay 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvEKf4_UlEbL2uijUfYlz0tOsHjs2wvGs9RhW8k_zSORA0hNmp9ed6_cW_Vp8KfmG7SAfBphKzUX-jyBesqGumRBeIH1ekrJdcj12hZkjiBeYVv30IaLlmQztR3UxBJLCPPpE1cUWOC-Y/s320/p2.gif)
 
 
 ##  Why You’ll Love It
